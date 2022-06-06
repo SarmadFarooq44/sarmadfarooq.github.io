@@ -1,0 +1,18 @@
+{
+  "name": "Sarmad Farooq",
+  "age": "21",
+  "gender": "Male",
+  "past_degrees": [
+    {"id":"1", "institution":"ABICS", "degree": "Matric", "year": "2017-2018" },
+    {"id":"2", "institution":"Punjab College", "degree": "FSC", "year": "2018-2019" },
+    {"id":"3", "institution":"Comsats", "degree": "BCS", "year": "2019-(On Going)" },
+  ]
+  "past_exp": [
+    {"id":"1", "name":"Web Development", "Duration": "1 Year" },
+    {"id":"2", "name":"Moblie Development", "Duration": "0.5 Year" },
+    {"id":"1", "name":"Web Development", "Duration": "1 Year" },
+  ]
+  "hobies": [
+    "Reading","Chess","Games"
+  ]
+}
